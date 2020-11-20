@@ -28,9 +28,9 @@ align-items: center;
 	 }
 		
 .slider-box{
-	margin:20px;
+	margin:10px;
 	height:350px;
-	width:250px;
+	width:320px;
 	position:relative;
 	background-color:#FFFFFF;
 	border-radius:20px;
@@ -39,7 +39,7 @@ align-items: center;
 	justify-content:center;
 	align-items:center;
 	text-align:center;
-	border:1px solid rgba(208, 112, 221, 0.4);
+	border:2px solid rgba(208, 112, 221, 0.4);
 }
 
 .slider-box a{
